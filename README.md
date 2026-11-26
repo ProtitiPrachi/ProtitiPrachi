@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Protiti Sahajee Prachi 👋</h1>
-
 <p align="center">
-  <b>CSE Student · Aspiring QA Engineer · Researcher</b><br>
-  <i>I break software on purpose, so your users never do it by accident.</i>
+  <img src="assets/header.svg" alt="Protiti Sahajee Prachi: CSE Student, Aspiring QA Engineer, Researcher" width="100%">
 </p>
 
 <p align="center">
@@ -19,7 +16,7 @@ I'm a Computer Science and Engineering student at **American International Unive
 
 - 🎓 B.Sc. in CSE at AIUB, **CGPA 3.80** (2023 – 2027)
 - 🧪 Building a **Selenium test suite** for my Job Portal project (planned)
-- 📄 **3 research papers**, including one accepted at I-COSTE 2026
+- 📄 **3 research papers**, including one accepted at I-COSTE 2026 for the IEEE proceedings
 - 📍 Dhaka, Bangladesh · open to QA roles
 
 ## Skills
@@ -57,7 +54,7 @@ I'm a Computer Science and Engineering student at **American International Unive
 ## Research
 
 - **Explainable and Generalizable Deepfake Detection for Vishing Attack Recognition**<br>
-  *Paper accepted* · I-COSTE 2026: Sustainable Technology for Humanity and Global Impact
+  *Paper accepted, to be published in the IEEE conference proceedings* · I-COSTE 2026: Sustainable Technology for Humanity and Global Impact
 - **Quantifying the Risks of Self-Medication: A Statistical Analysis of Commonly Misused Drugs in Bangladesh**<br>
   *Abstract published, presented as a poster* · National Biomedical & Health Research Conference (NBHRC) 2025
 - **Transformational Leadership and Organizational Change in Bangladeshi Higher Education Institutions**<br>
@@ -65,7 +62,7 @@ I'm a Computer Science and Engineering student at **American International Unive
 
 ## Honors
 
-🏆 Dean's Award, AIUB · 🎓 IT Essentials, Cisco Networking Academy · 🎤 Presenting author, NBHRC 2025 · 🌍 YUNet Summit 2025 · 💻 AIUB Programming Contest (C++), 2024
+🏆 Dean's Award, AIUB · 🎓 IT Essentials, Cisco Networking Academy · 🎤 Presenting author, NBHRC 2025 · 📜 I-COSTE 2026 paper acceptance certificate (IEEE proceedings) · 💻 AIUB Programming Contest (C++), 2024
 
 ## Beyond code
 
